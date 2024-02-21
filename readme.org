@@ -12,6 +12,7 @@ projection using only the smiles.
 
 ** Requirements
 tested with python 3.9 with gzip, numpy and sklearn.
+Need pandas and datamol in addition to work.
 
 * Regression using gzip
 
